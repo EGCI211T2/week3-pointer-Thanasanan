@@ -1,4 +1,4 @@
-// Input = " make compile run var = "numbers" 
+// Input = " make compile run var="numbers" 
 
 
 #include <iostream>
